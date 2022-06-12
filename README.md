@@ -1,4 +1,5 @@
 # Regulación del factor sigma (RpoH) bajo condiciones de choque térmico
+![Image Text](https://github.com/breaze/regulacion_factor_-sigma32/blob/master/parcial1.png)
 Regulación del factor sigma (RpoH) bajo condiciones de choque térmico
 La inducción de proteínas de choque térmico (Hsps) a elevadas temperaturas es un fenómeno universal en todos los organismos, tanto en organismos pluricelulares como en unicelulares. La mayoría de proteínas asociadas al choque térmico son proteasas o chaperonas relacionadas con el control cualitativo de las proteínas en formación, en especial, asociadas al plegamiento y otros procesos post transcripcionales, como la glucosidación. La conservación evolutiva de las Hsps contrasta con la multitud de mecanismos regulatorios establecidos para la percepción térmica y la expresión de genes de choque térmico. 
 
